@@ -6,8 +6,9 @@
 
 This project is a Flutter page and widget management application.
 
-    Provider 
-     : customer to switch widget or page 
+Provider 
+    : customer to switch widget or page 
+
 
     Example
      : Widget build(BuildContext context) {
